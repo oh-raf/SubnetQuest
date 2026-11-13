@@ -1,0 +1,35 @@
+[
+	{
+		"id": "m1",
+		"nama": "MUHAMMAD RAFIF IMTITHAL",
+		"nim": "240533608447",
+		"peran": "Project + Level",
+		"dialog": "Halo! Aku MUHAMMAD RAFIF IMTITHAL (NIM 240533608447), Project & Level Designer tim ini. Aku yang merancang kurikulum soal subnetting, skenario gedung kampus UM, dan papan Kanban proyek.",
+		"portrait": "res://assets/portraits/portrait_1.png",
+		"sheet": "res://assets/characters/char_1.png",
+		"layout": "knight",
+		"faces_right": true
+	},
+	{
+		"id": "m2",
+		"nama": "IHSAN YUSUF ADRIAN",
+		"nim": "240533615464",
+		"peran": "Artist",
+		"dialog": "Hai! Aku IHSAN YUSUF ADRIAN (NIM 240533615464), Artist tim ini. Seluruh sprite karakter, ikon gedung kampus, palet warna antarmuka, dan efek visual kabel jaringan aku yang siapkan.",
+		"portrait": "res://assets/portraits/portrait_2.png",
+		"sheet": "res://assets/characters/char_2.png",
+		"layout": "knight",
+		"faces_right": true
+	},
+	{
+		"id": "m3",
+		"nama": "MUHAMMAD ASHAR FARHANDIKA PUTRA FARIAL",
+		"nim": "240533615493",
+		"peran": "Programmer",
+		"dialog": "Halo! Aku MUHAMMAD ASHAR FARHANDIKA PUTRA FARIAL (NIM 240533615493), Programmer tim ini. Aku yang membangun kalkulator subnetting IPv4, sistem validasi per-field, dan pop-up tutorial di Godot 4.3.",
+		"portrait": "res://assets/portraits/portrait_3.png",
+		"sheet": "res://assets/characters/char_3.png",
+		"layout": "knight",
+		"faces_right": true
+	}
+]
